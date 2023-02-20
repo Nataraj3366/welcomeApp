@@ -1,0 +1,32 @@
+/* Write your CSS here */
+body {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-container {
+  font-family: Bree serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f0bb03;
+  font-size: 60px;
+}
+.paragraph {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+button {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 20px;
+  border: 0px none;
+  font-weight: 700;
+}
